@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42833" started-at="2019-10-18T03:04:00Z" finished-at="2019-10-18T03:04:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42833" started-at="2019-10-18T03:04:00Z" finished-at="2019-10-18T03:04:42Z">
+      <class name="com.bdtech.com.DataProviderDemo">
+        <test-method status="PASS" signature="TestDataProvider(java.lang.String, java.lang.String)[pri:0, instance:com.bdtech.com.DataProviderDemo@68c4039c]" name="TestDataProvider" duration-ms="13066" started-at="2019-10-18T03:04:00Z" data-provider="login" finished-at="2019-10-18T03:04:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[radiya123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789SSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDataProvider -->
+        <test-method status="PASS" signature="TestDataProvider(java.lang.String, java.lang.String)[pri:0, instance:com.bdtech.com.DataProviderDemo@68c4039c]" name="TestDataProvider" duration-ms="10686" started-at="2019-10-18T03:04:13Z" data-provider="login" finished-at="2019-10-18T03:04:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[radiya123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789SSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDataProvider -->
+        <test-method status="PASS" signature="TestDataProvider(java.lang.String, java.lang.String)[pri:0, instance:com.bdtech.com.DataProviderDemo@68c4039c]" name="TestDataProvider" duration-ms="9347" started-at="2019-10-18T03:04:23Z" data-provider="login" finished-at="2019-10-18T03:04:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[radiya123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789SSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDataProvider -->
+        <test-method status="PASS" signature="TestDataProvider(java.lang.String, java.lang.String)[pri:0, instance:com.bdtech.com.DataProviderDemo@68c4039c]" name="TestDataProvider" duration-ms="9690" started-at="2019-10-18T03:04:33Z" data-provider="login" finished-at="2019-10-18T03:04:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[radiya123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789SSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDataProvider -->
+      </class> <!-- com.bdtech.com.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
